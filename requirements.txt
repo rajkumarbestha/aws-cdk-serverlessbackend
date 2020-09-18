@@ -1,0 +1,10 @@
+-e .
+
+aws-cdk.aws_apigateway
+aws-cdk.aws_lambda
+aws-cdk.aws_lambda_event_sources
+aws-cdk.aws-s3
+aws-cdk.aws_events_targets
+aws-cdk.aws_events
+aws-cdk.aws_rds
+aws-cdk.aws_ec2
